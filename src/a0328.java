@@ -1,4 +1,5 @@
 // 숨어있는 숫자의 덧셈(1)
+/*
 class Solution {
     public int solution(String my_string) {
         int answer = 0;
@@ -9,3 +10,4 @@ class Solution {
         return answer;
     }
 }
+*/
