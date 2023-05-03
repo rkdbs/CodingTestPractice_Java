@@ -1,0 +1,9 @@
+// my_string
+public class e0503 {
+	class Solution {
+	    public String solution(String rny_string) {
+	        rny_string = rny_string.replace("m", "rn");
+	        return rny_string;
+	    }
+	}
+}
